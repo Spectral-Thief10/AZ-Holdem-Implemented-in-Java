@@ -4,7 +4,7 @@ package model;
  * class Card represents one of the 52 poker cards. There are no comments before
  * methods because the method name says it all.
  * 
- * @author Rick Mercer and Cameron Rodgers
+ * @author Cameron Rodgers
  */
 
 public class Card implements Comparable<Card> {
