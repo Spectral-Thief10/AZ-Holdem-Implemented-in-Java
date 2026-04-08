@@ -16,21 +16,10 @@ import model.Rank;
 import model.Suit;
 
 /**
- * Tests the CardHand class, last modified Sep 2015, June 2017, July 23, August
- * 23
- * 
- * I think this a pretty good unit test, if you add any other test cases please
- * send them to me!
- * 
- * I am providing all 52 possible Cars to save you time writing @Tests
- * 
- * @author Rick Mercer and Cameron Rodgers
+ * Tests the CardHand class, last modified August 23
+ * @author Cameron Rodgers
  */
 public class PokerHandTest {
-
-	// This file contains all 52 cards to save you time with names like
-	// C2 for the two of clubs
-	// AS for the ace of spades
 
 	// Set up 52 cards so we can use C2 instead of new Card(Rank.Deuce, Suit.Clubs)
 	private final static Card C2 = new Card(Rank.DEUCE, Suit.CLUBS);
