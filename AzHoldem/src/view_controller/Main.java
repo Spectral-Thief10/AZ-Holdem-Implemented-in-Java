@@ -6,7 +6,7 @@ import model.Game;
  * This plays a console game of Arizona Hold-Em, a reduced version of Texas
  * Hold-Em
  * 
- * @author Rick Mercer & Cameron Rodgers
+ * @author Cameron Rodgers
  */
 public class Main {
 
