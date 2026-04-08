@@ -3,7 +3,7 @@ package tests;
 /** 
  * Start of a JUnit test for class Card with enums.
  * 
- * @author Rick Mercer and YOUR NAME
+ * @author Cameron Rodgers
  */
 import static org.junit.Assert.*;
 
